@@ -6,3 +6,4 @@
 **1365**   | [**How Many Numbers Are Smaller Than the Current Number**](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/2) | Easy       |
 **1486**   | [**XOR Operation in an Array**](https://leetcode.com/problems/xor-operation-in-an-array/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/3) | Easy       |
 **1470**   | [**Shuffle the Array**](https://leetcode.com/problems/shuffle-the-array/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/4) | Easy       |
+**1512**   | [**Number of Good Pairs**](https://leetcode.com/problems/number-of-good-pairs/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/5) | Easy       |
