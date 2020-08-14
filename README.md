@@ -7,3 +7,5 @@
 **1486**   | [**XOR Operation in an Array**](https://leetcode.com/problems/xor-operation-in-an-array/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/3) | Easy       |
 **1470**   | [**Shuffle the Array**](https://leetcode.com/problems/shuffle-the-array/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/4) | Easy       |
 **1512**   | [**Number of Good Pairs**](https://leetcode.com/problems/number-of-good-pairs/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/5) | Easy       |
+**704**   | [**Binary Search**](https://leetcode.com/problems/binary-search/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/6) | Easy       |
+
