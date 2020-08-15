@@ -8,4 +8,5 @@
 **1470**   | [**Shuffle the Array**](https://leetcode.com/problems/shuffle-the-array/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/4) | Easy       |
 **1512**   | [**Number of Good Pairs**](https://leetcode.com/problems/number-of-good-pairs/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/5) | Easy       |
 **704**   | [**Binary Search**](https://leetcode.com/problems/binary-search/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/6) | Easy       |
+**1464**   | [**Maximum Product of Two Elements in an Array**](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/7) | Easy       |
 
