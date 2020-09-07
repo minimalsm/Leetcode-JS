@@ -12,6 +12,7 @@
 **412**   | [**Fizz Buzz**](https://leetcode.com/problems/fizz-buzz/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/8) | Easy       |
 **771**   | [**Jewels and Stones**](https://leetcode.com/problems/jewels-and-stones/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/9) | Easy       |
 **169**   | [**Majority Element**](https://leetcode.com/problems/majority-element/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/10) | Easy       |
+**1342**   | [**Number of Steps to Reduce a Number to Zero**](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [:heavy_check_mark:](https://github.com/minimalsm/Leetcode-JS/issues/11) | Easy       |
 
 
 
